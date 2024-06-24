@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - anitha1336/gitops-demo@sha256:defb8849da11b7eaa784fa19c12063fff58c673318638216dd1185869052f720
