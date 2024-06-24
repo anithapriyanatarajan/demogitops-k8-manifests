@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - anitha1336/gitops-demo@sha256:eb605e94880359dbebf11fb37b8e7cd139cce42de4e082643482fc874e4b6c3f
+  - anitha1336/gitops-demo@sha256:9099fa6b0ecd5ba6c390fea77ac7b69d115c0b0340dbcc6de2c6c71099ab5ea2
